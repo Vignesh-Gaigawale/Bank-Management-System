@@ -83,8 +83,8 @@ CREATE TABLE transactions (
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bank-management-system.git
-cd bank-management-system
+git clone git clone https://github.com/Vignesh-Gaigawale/Bank-Management-System.git
+cd Bank-Management-System
 ```
 
 ### 2. Configure Database Credentials
